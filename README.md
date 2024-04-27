@@ -90,7 +90,7 @@ src="https://img.shields.io/twitch/status/TheWalkerJunior?logo=twitchsx&style=fo
 </td><td valign="top" width="50%">
 <b>Top Lenguajes</b>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErlynPino&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ErlynPino&layout=compact&theme=dark)
 
 </td></tr></table> 
 
