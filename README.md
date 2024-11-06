@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Banner de ErlynPino](./github-header-imageF.png)
 
 * 🌍  I'm based in Bogotá - Colombia
-* 🖥️  See my portfolio at [https://erlynpino.com/](http://erlynpino.com/)
+* 🖥️  See my portfolio at [https://erlynpino.com/](http://erlynpino.site/)
 * ✉️  You can contact me at [erlynpino@gmail.com](mailto:erlynpino@gmail.com)
 * 🧠  I'm learning Currently, I'm expanding my knowledge in back-end technologies like Node.js. Continuous learning is crucial to me, and I'm always excited to take on new challenges and stay at the forefront of the latest technologies.
 
